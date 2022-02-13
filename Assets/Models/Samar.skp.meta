@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: d3db156f81c28ec419190e4c98428891
+timeCreated: 1536907526
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2c4fce1cde1cc194266d3aba0ecaa45f
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -3.0658977, y: 10.367291, z: -7.7370806}
+      lookAt: {x: -2.3974004, y: 6.7634654, z: -13.473588}
+      up: {x: 0.0612773, y: 0.848378, z: -0.52583265}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 14.163604, y: 8.678607, z: -13.210724}
+        lookAt: {x: 1.647586, y: 2.2189417, z: 6.8841233}
+        up: {x: -0.13916911, y: 0.9647313, z: 0.22344026}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Home
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#2
+    100004: Component#2 1
+    100006: Component#2 2
+    100008: Component#2 3
+    100010: Component#2 4
+    100012: Component#2 5
+    100014: Component#2 6
+    100016: Component#2 7
+    100018: Component#2 8
+    100020: Component#2 9
+    100022: Component#3
+    100024: Component#3 1
+    100026: Component#4
+    100028: Component#4 1
+    100030: Lemon
+    100032: //RootNode
+    100034: sketchup-download200903111203102
+    100036: sketchup-download200903111203102 1
+    100038: sketchup-download200903111203102 2
+    100040: sketchup-download200903111203253
+    400000: Component#1
+    400002: Component#2
+    400004: Component#2 1
+    400006: Component#2 2
+    400008: Component#2 3
+    400010: Component#2 4
+    400012: Component#2 5
+    400014: Component#2 6
+    400016: Component#2 7
+    400018: Component#2 8
+    400020: Component#2 9
+    400022: Component#3
+    400024: Component#3 1
+    400026: Component#4
+    400028: Component#4 1
+    400030: Lemon
+    400032: //RootNode
+    400034: sketchup-download200903111203102
+    400036: sketchup-download200903111203102 1
+    400038: sketchup-download200903111203102 2
+    400040: sketchup-download200903111203253
+    2300000: Component#1
+    2300002: Component#2
+    2300004: Component#2 1
+    2300006: Component#2 2
+    2300008: Component#2 3
+    2300010: Component#2 4
+    2300012: Component#2 5
+    2300014: Component#2 6
+    2300016: Component#2 7
+    2300018: Component#2 8
+    2300020: Component#2 9
+    2300022: Component#4
+    2300024: Component#4 1
+    2300026: Lemon
+    2300028: sketchup-download200903111203102
+    2300030: sketchup-download200903111203102 1
+    2300032: sketchup-download200903111203102 2
+    3300000: Component#1
+    3300002: Component#2
+    3300004: Component#2 1
+    3300006: Component#2 2
+    3300008: Component#2 3
+    3300010: Component#2 4
+    3300012: Component#2 5
+    3300014: Component#2 6
+    3300016: Component#2 7
+    3300018: Component#2 8
+    3300020: Component#2 9
+    3300022: Component#4
+    3300024: Component#4 1
+    3300026: Lemon
+    3300028: sketchup-download200903111203102
+    3300030: sketchup-download200903111203102 1
+    3300032: sketchup-download200903111203102 2
+    4300000: Mesh Component#1
+    4300002: Mesh Component#2
+    4300004: Mesh Component#2
+    4300006: Mesh sketchup-download200903111203102
+    4300008: Mesh Component#4
+    4300010: Mesh Lemon
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

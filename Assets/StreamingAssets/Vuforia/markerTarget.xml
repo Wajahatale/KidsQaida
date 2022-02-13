@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BariYaymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Yaymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Humzamarker" size="100.000000 113.988098" />
+    <ImageTarget name="Heymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Wowmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Noonmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Meemmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Laammarker" size="100.000000 113.988098" />
+    <ImageTarget name="Gafmarker" size="100.000000 113.988098" />
+    <ImageTarget name="kiafmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Qafmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Faymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Ghainmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Aeinmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Zoazmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Toamarker" size="100.000000 113.988098" />
+    <ImageTarget name="Zoadmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Soadmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Sheenmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Seenmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Zsaymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Zaymarker" size="100.000000 113.988098" />
+    <ImageTarget name="rdaymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Raymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Zaalmarker" size="100.000000 113.988098" />
+    <ImageTarget name="dulmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Daalmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Khaymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Haymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Chaymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Geemmarker" size="100.000000 113.988098" />
+    <ImageTarget name="Saymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Taymarker" size="100.000000 113.988098" />
+    <ImageTarget name="teymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Paymarker" size="100.000000 113.988098" />
+    <ImageTarget name="Baymarker" size="100.000000 113.988098" />
+    <ImageTarget name="alifmarker" size="100.000000 153.942657" />
+  </Tracking>
+</QCARConfig>
